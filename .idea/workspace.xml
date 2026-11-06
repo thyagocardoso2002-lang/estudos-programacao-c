@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="3" type="long" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d16b2f0-6ca5-45f6-8dbc-c1994bff8545" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="16" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Coding" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Aula3/Sistema de Desconto/Desconto.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Aula3/atv1.c" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="09FKjG0C" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.144586022988161" />
+      <entry key="MS500" value="1.6792431422745229" />
+      <entry key="S2" value="1.908583301691341" />
+      <entry key="S5" value="2.0634367368912234" />
+      <entry key="S10" value="2.526050796968291" />
+      <entry key="S30" value="4.191911278781143" />
+      <entry key="S60" value="8.515763319436505" />
+      <entry key="M2" value="18.660151827221288" />
+      <entry key="M5" value="42.04926140963264" />
+      <entry key="M10" value="70.12749076264795" />
+      <entry key="M15" value="88.79805876021024" />
+      <entry key="M30" value="117.62204523366337" />
+      <entry key="H1" value="139.24726492679008" />
+      <entry key="H2" value="181.2686422245108" />
+      <entry key="H4" value="336.63294101153645" />
+      <entry key="D1" value="1018.6632676797668" />
+      <entry key="W1" value="1292.3091516126958" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="4.650927763079666E-111" />
+      <entry key="S5" value="7.362339457097718E-45" />
+      <entry key="S10" value="8.580407600420387E-23" />
+      <entry key="S30" value="4.412854517448908E-8" />
+      <entry key="S60" value="2.1471024767658192E-4" />
+      <entry key="M2" value="0.01665865091381789" />
+      <entry key="M5" value="0.2698095461957792" />
+      <entry key="M10" value="0.7219689682728935" />
+      <entry key="M15" value="1.0099539248659528" />
+      <entry key="M30" value="1.4185424260718278" />
+      <entry key="H1" value="1.7297869731787254" />
+      <entry key="H2" value="2.8997576262497375" />
+      <entry key="H4" value="7.530896489776954" />
+      <entry key="D1" value="25.79150494239915" />
+      <entry key="W1" value="32.669426793803595" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.2776322957948309" />
+      <entry key="MS500" value="1.3472801814695692" />
+      <entry key="S2" value="1.8124761570015357" />
+      <entry key="S5" value="2.0076145148424644" />
+      <entry key="S10" value="2.454426356616206" />
+      <entry key="S30" value="4.125540997370989" />
+      <entry key="S60" value="8.470599683301144" />
+      <entry key="M2" value="18.646556099555518" />
+      <entry key="M5" value="42.29397211078303" />
+      <entry key="M10" value="70.82491297636994" />
+      <entry key="M15" value="89.78579707239415" />
+      <entry key="M30" value="119.02482724717392" />
+      <entry key="H1" value="140.96743839620854" />
+      <entry key="H2" value="184.16228423500442" />
+      <entry key="H4" value="344.1587653326424" />
+      <entry key="D1" value="1044.4525912485542" />
+      <entry key="W1" value="1324.9781932088372" />
+    </decayedShown>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="$PROJECT_DIR$/../../../../../../php/php-8.5/php.exe" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3LbJX5cYAnMt4I64WqyHOLO4I1n" />
+  <component name="ProjectStatusUIService">{
+  &quot;uiKindId&quot;: &quot;Widget&quot;
+}</component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.atv1.c (1).executor": "Run",
+    "C/C++ File.atv1.c (2).executor": "Run",
+    "C/C++ File.atv1.c.executor": "Run",
+    "C/C++ File.atv2.c (1).executor": "Run",
+    "C/C++ File.atv2.c.executor": "Run",
+    "C/C++ File.atv3.c (1).executor": "Debug",
+    "C/C++ File.atv3.c.executor": "Run",
+    "C/C++ File.atv4.c (1).executor": "Run",
+    "C/C++ File.atv4.c.executor": "Run",
+    "C/C++ File.atv5.c.executor": "Run",
+    "C/C++ File.atv6.c.executor": "Run",
+    "C/C++ File.perfilDev.c.executor": "Run",
+    "CidrDebugProfileConversion": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/thyag/OneDrive/Documentos/UNAMA/Coding",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "preferences.fileTypes",
+    "show.migrate.to.gradle.popup": "false",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\thyag\OneDrive\Documentos\UNAMA\Coding" />
+    </key>
+  </component>
+  <component name="RunManager" selected="C/C++ File.atv1.c (2)">
+    <configuration name="atv1.c (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Coding" TARGET_NAME="atv1.c" CONFIG_NAME="atv1.c">
+      <option name="sourceFile" value="Aula3\atv1.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="atv1.c (2)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Coding" TARGET_NAME="atv1.c" CONFIG_NAME="atv1.c">
+      <option name="sourceFile" value="Aula5\atv1.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="atv1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Coding" TARGET_NAME="atv1.c" CONFIG_NAME="atv1.c">
+      <option name="sourceFile" value="Aula2\atv1.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="atv3.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Coding" TARGET_NAME="atv3.c" CONFIG_NAME="atv3.c">
+      <option name="sourceFile" value="Aula2\atv3.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="atv4.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Coding" TARGET_NAME="atv4.c" CONFIG_NAME="atv4.c">
+      <option name="sourceFile" value="Aula2\atv4.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.atv1.c (2)" />
+        <item itemvalue="C/C++ File.atv1.c (1)" />
+        <item itemvalue="C/C++ File.atv1.c" />
+        <item itemvalue="C/C++ File.atv3.c" />
+        <item itemvalue="C/C++ File.atv4.c" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SelectedDebugProfileService"><![CDATA[{
+  "profileIdByStamp": [
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "C/C++ File.atv4.c"
+      },
+      "second": "8effce1e-583c-4b41-bc6a-43a18b89b2c8"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "C/C++ File.atv3.c"
+      },
+      "second": "8effce1e-583c-4b41-bc6a-43a18b89b2c8"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "C/C++ File.atv1.c (2)"
+      },
+      "second": "8effce1e-583c-4b41-bc6a-43a18b89b2c8"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "C/C++ File.atv1.c"
+      },
+      "second": "8effce1e-583c-4b41-bc6a-43a18b89b2c8"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "C/C++ File.atv1.c (1)"
+      },
+      "second": "8effce1e-583c-4b41-bc6a-43a18b89b2c8"
+    }
+  ],
+  "modificationCount": 33
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.29188.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.29188.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d16b2f0-6ca5-45f6-8dbc-c1994bff8545" name="Changes" comment="" />
+      <created>1793716871777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793716871777</updated>
+      <workItem from="1793716872460" duration="527000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
